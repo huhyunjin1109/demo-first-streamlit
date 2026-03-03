@@ -18,7 +18,7 @@ gc = init_connection()
 # ==========================================
 # 2. 開啟指定的試算表與工作表
 # ==========================================
-SHEET_INPUT = "https://docs.google.com/spreadsheets/d/1ZLV7EVEj9POsIgbcJ2PSQYFgXSGIu78w4LIWt2Z_ny4/edit?gid=1497892844#gid=1497892844"
+SHEET_INPUT = "https://docs.google.com/spreadsheets/d/1ZLV7EVEj9POsIgbcJ2PSQYFgXSGIu78w4LIWt2Z_ny4/edit?usp=sharing"
 WORKSHEET_NAME = "工作表1"
 
 try:
